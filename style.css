@@ -331,4 +331,8 @@ main {
     width: 80%;
     margin: 1vh 0;
   }
+
+  .memory-text {
+    font-size: 0.9rem;
+  }
 }
