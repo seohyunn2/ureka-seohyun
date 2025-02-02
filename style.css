@@ -439,11 +439,11 @@ main {
   }
 
   header {
-    font-size: 16px; /* 작은 화면에서 폰트 크기 조정 */
+    font-size: 16px; 
   }
 
   #intro {
-    padding-top: 10vh; /* 네비게이션 바와의 거리 조정 */
+    padding-top: 10vh; 
   }
 
 
@@ -474,7 +474,7 @@ main {
   }
 
   .navbar li {
-    font-size: 1.1em;
+    font-size: 0.9em;
   }
 
   .profile {
